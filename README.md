@@ -4,7 +4,7 @@ www.patika.dev
 
 
 
-              ##Yalan ve Gerçeklerle Veri Bilimi
+              			Yalan ve Gerçeklerle Veri Bilimi
 
 
   Günümüz dünyasında her hareketimiz, davranışımız bir şekilde veri doğuruyor. 
